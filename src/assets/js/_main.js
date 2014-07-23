@@ -97,7 +97,7 @@ var Roots = {
         var feed = new Instafeed({
             get: 'tagged',
             tagName: 'tossandroll',
-            clientId: '6dd47cb066b84b4596ba4cd92e589081',
+            clientId: '*****',
             limit: 25,
             resolution: 'standard_resolution',
             error: function(err){
